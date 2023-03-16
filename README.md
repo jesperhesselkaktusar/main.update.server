@@ -1,0 +1,2 @@
+# main.update.server
+mainupdateserver
